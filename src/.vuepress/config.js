@@ -14,7 +14,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['link', { rel: 'icon', href: '/logo/logo.png' }],
+    ['link', { rel: 'icon', href: '/logo/logo-no-bg.png' }],
     ['meta', { name: 'theme-color', content: '#1f232f' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
@@ -26,7 +26,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    logo: '/logo/logo.png',
+    logo: '/logo/logo-no-bg@2x.png',
     lastUpdated: false,
 
     repo: 'upspeak/upspeak',
