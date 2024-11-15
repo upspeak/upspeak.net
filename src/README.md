@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo/logo-no-bg@2x.png
-tagline:  A contextual discussion platform that can connect to Matrix
+tagline:  Collect, organize, synthesize information into knowledge graphs
 actionText: Know more →
 actionLink: /about/
 ---
